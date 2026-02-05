@@ -1,2 +1,2 @@
 # TestPlatform
-an testing platform students 
+an testing platform for students 
